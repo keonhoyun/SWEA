@@ -22,18 +22,18 @@ for tc in range(1, T + 1):
     arr = list(matrix)
     start = -1
     result = []
-    for i in range(1, len(arr)):
-        for j in range(M - 1, -1, -1):            
-            if arr[i][j] == '1':
-                start = j
-                break
-        for k in range(start, -1, -7):
-            code = ''
-            for a in range(k, k-7, -1):
-                code = arr[i][a] + code
-            for key, value in ans.items():
-                if key == code:
-                    result.insert(0,value)
+   
+    for j in range(M - 1, -1, -1):            
+        if arr[1][j] == '1':
+            start = j
+            break
+    for k in range(start, -1, -7):
+        code = ''
+        for a in range(k, k-7, -1):
+            code = arr[1][a] + code
+        for key, value in ans.items():
+            if key == code:
+                result.insert(0,value)
     sum_odd = 0
     sum_even = 0
 

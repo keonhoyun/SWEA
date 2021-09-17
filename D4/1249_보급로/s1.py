@@ -6,7 +6,6 @@ from collections import deque
 di = [1, 0, -1, 0]
 dj = [0, 1, 0, -1]
 
-
 def BFS(arr, visited, time, start, goal):
     # 시작점 넣기
     q = deque([start])
@@ -43,7 +42,6 @@ def BFS(arr, visited, time, start, goal):
                     if time[ni][nj] > time[i][j] + arr[ni][nj]:
                         time[ni][nj] = time[i][j] + arr[ni][nj]
                         q.append([ni, nj])
-
 
 T = int(input())
 for tc in range(1, T + 1):
