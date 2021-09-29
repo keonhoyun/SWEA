@@ -1,4 +1,3 @@
-
 for tc in range(1, int(input()) + 1):
     N, M = map(int, input().split())
     Ai = list(map(int, input().split()))
@@ -8,20 +7,18 @@ for tc in range(1, int(input()) + 1):
     ans = [0] * len(Ai)
 
     for B in Bi:
-        i = 0
-        while i < len(Ai):
+        for i in range(len(Ai)):
+            # 조건에 맞는 종목 찾기
             if Ai[i] <= B:
                 ans[i] = ans[i] + 1
-                i += 1
-            else:
-                i += 1
 
+    # 최대값 초기화
     maxV = ans[0]
-    for j in range(len(ans)):
-        if maxV < ans[j]:
-            maxV = ans[j]
-            idx = j
+    for i in range(len(ans)):
+        # 최대값이 나타나면 바구기
+        if maxV < ans[i]:
+            maxV = ans[i]
+            # 인덱스 받아오기
+            idx = i
 
     print('#{} {}'.format(tc, idx))
-
-
