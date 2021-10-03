@@ -11,14 +11,16 @@ for tc in range(1, int(input()) + 1):
             # 조건에 맞는 종목 찾기
             if Ai[i] <= B:
                 ans[i] = ans[i] + 1
+                break
 
     # 최대값 초기화
     maxV = ans[0]
+    j = 1
     for i in range(len(ans)):
         # 최대값이 나타나면 바구기
         if maxV < ans[i]:
             maxV = ans[i]
             # 인덱스 받아오기
-            idx = i
+            j = i + 1
 
-    print('#{} {}'.format(tc, idx))
+    print('#{} {}'.format(tc, j))

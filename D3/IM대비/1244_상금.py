@@ -23,6 +23,41 @@ for tc in range(1, T + 1):
 
 
 
+T = int(input())
+# 여러개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
+ 
+def dfs(c):
+    global answer
+    if c == 0:
+        answer = max(answer, int("".join(nums)))
+        return
+     
+    for i in range(length-1):
+        for j in range(i+1, length):
+            nums[i], nums[j] = nums[j], nums[i]
+             
+            if (int("".join(nums)), c) not in visited:
+                visited[(int("".join(nums)), c)] = 1
+                dfs(c-1)
+                 
+            nums[i], nums[j] = nums[j], nums[i]
+             
+ 
+ 
+ 
+ 
+for test_case in range(1, T + 1):
+    nums, c = input().split()
+    c = int(c)
+    nums = list(nums)
+    length = len(nums)
+    visited = {}
+    answer = -9999999
+    dfs(c)
+    print(f"#{test_case} {answer}")
+
+
+
 
 
 
