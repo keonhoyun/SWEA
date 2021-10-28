@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89d7a3dd-29d1-4265-bc14-4c8784fe3361" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D3/1024/4261_키패드/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D4/1024/5987_달리기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D4/~1018/3074_입국심사/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D4/1028/12004_구구단/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D4/1028/5550_개구리/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1234_비밀번호/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1234_비밀번호/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1234_비밀번호/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1234_비밀번호/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1249_보급로/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1249_보급로/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1249_보급로/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1249_보급로/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1251_하나로/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1251_하나로/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1258_행렬찾기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1258_행렬찾기/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1258_행렬찾기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1258_행렬찾기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1486_선반/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1486_선반/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1494_사랑의 카운슬러/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1494_사랑의 카운슬러/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1861_정사각형 방/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1861_정사각형 방/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1868_지뢰찾기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1868_지뢰찾기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1949_등산로 조정/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/1949_등산로 조정/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/3316_동아리실 관리/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/3316_동아리실 관리/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/3347_올림픽 종목/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/3347_올림픽 종목/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/4613_러시아깃발/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/4613_러시아깃발/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/4613_러시아깃발/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/4613_러시아깃발/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/6190_단조증가/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/6190_단조증가/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/6190_단조증가/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/~1018/6190_단조증가/s_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4/1024/5987_달리기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/1024/5987_달리기/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D4/1024/5987_달리기/s1.py">
+        <entry file="file://$PROJECT_DIR$/D4/1028/12004_구구단/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="332">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -101,14 +83,17 @@
         <option value="$PROJECT_DIR$/D3/1024/s1.py" />
         <option value="$PROJECT_DIR$/D3/1024/4261_키패드/s1.py" />
         <option value="$PROJECT_DIR$/D4/1024/5987_달리기/s1.py" />
+        <option value="$PROJECT_DIR$/D4/1028/4672_수진이/s1.py" />
+        <option value="$PROJECT_DIR$/D4/1028/5550_개구리/s1.py" />
+        <option value="$PROJECT_DIR$/D4/1028/12004_구구단/s1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2604" />
-    <option name="y" value="59" />
-    <option name="width" value="1167" />
-    <option name="height" value="978" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -118,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +122,16 @@
               <item name="D4" type="462c0819:PsiDirectoryNode" />
               <item name="1024" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="D4" type="462c0819:PsiDirectoryNode" />
+              <item name="1028" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -161,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,6 +174,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SWEA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D4/1028/4672_수진이" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/1028/4672_수진이/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3/1012/1493_새로운 수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D4/1028/12004_구구단" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/1012/1493_새로운 수/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/1028/12004_구구단/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,32 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D4/1258_행렬찾기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D4/1028/5550_개구리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/1258_행렬찾기/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SWEA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3/1024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\윤건호\Desktop\GitHub\SWEA\D3\1024\5948_735게임\s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/1028/5550_개구리/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -291,15 +282,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2604" y="59" width="1167" height="978" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17626218" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10413355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17772512" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4252669" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3981289" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,13 +316,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D4/~1018/4613_러시아깃발/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D4/~1018/1234_비밀번호/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -519,8 +503,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/D4/1024/5987_달리기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="60">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/1028/5550_개구리/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/1028/4672_수진이/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/1028/12004_구구단/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
